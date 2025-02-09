@@ -5,13 +5,20 @@ Jawaharlal Nehru Engineering College, MGMU – Chh. Sambhajinagar
 I am passionate about leveraging technology to solve complex problems. With a focus on AI, Data Science, and Web Development, I constantly explore innovative ways to apply technology in real-world scenarios.
 
 🚀 About Me
+
 • 💻 Proficient in: Python, Frontend Development
+
 • 🌱 Currently Learning: Machine Learning, Data Science, AI Applications
+
 • 🤝 Looking to Collaborate on: AI Projects, Web Development, Data Science
+
 • 📫 Reach Me:
 • Email – adityatawde9699@gmail.com
+
 • LinkedIn – https://www.linkedin.com/in/aditya-tawde-7a1392315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+
 • 😄 Pronouns: He/Him
+
 •⚡ Fun Fact: I love experimenting with new technologies and creating solutions to real-world problems!
 
 🔧 Skills & Technologies
