@@ -54,12 +54,6 @@ I explore innovative ways to apply tech in real-world scenarios, from AI-powered
 
 ## 🛠️ Featured Projects
 
-### 🚗 Smart Parking Assistance  
-AI-driven parking system using sensors and automation to optimize parking space usage.
-
-### 🍏 Apple Clone Website  
-Responsive clone of Apple's homepage built with HTML, CSS, and JavaScript.
-
 ### 💰 Expense Tracker  
 Python-based web app for personal finance tracking with data visualization.
 
