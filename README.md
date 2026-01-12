@@ -57,6 +57,6 @@
 
 ## 📈 GitHub Activity
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=adityatawde9699&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityatawde9699&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityatawde9699&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
