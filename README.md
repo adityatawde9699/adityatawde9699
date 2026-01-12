@@ -56,5 +56,6 @@
 ---
 
 ## 📈 GitHub Activity
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityatawde9699&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<div align="left">
+  <img src="https://github.com/adityatawde9699/adityatawde9699/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
