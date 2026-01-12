@@ -1,90 +1,97 @@
-<h1 align="center">👋 Hi there, I'm Aditya S. Tawde!</h1>
-
-<p align="center">
-🎓 <b>B.Tech | Artificial Intelligence and Data Science</b> <br>
-Jawaharlal Nehru Engineering College, MGMU – Chh. Sambhajinagar
-</p>
-
-<p align="center">
-I’m passionate about leveraging technology to solve complex problems, with a focus on <b>AI, Data Science, and Web Development</b>.  
-I explore innovative ways to apply tech in real-world scenarios, from AI-powered assistants to hackathon-ready solutions.
-</p>
-
----
-
-## 🚀 About Me
-
-- 💻 **Proficient in:** Python, Frontend Development
-- 🌱 **Currently Learning:** Machine Learning, Data Science, AI Engineering
-- 🤝 **Looking to Collaborate On:** AI Projects, Web Development, Data Science Tools
-- 🏆 **Hackathon Participation:**
-  - Pragati AI for Impact 2025 – *SkillForge*: AI-powered, gamified skill development platform  
-  - Bharatiya Antariksh Hackathon 2025 – *PM-AIMapper*: End-to-End PM Estimation & Mapping System for air pollution monitoring
-- 📫 **Reach Me:**  
-  📧 [Email](mailto:adityatawde9699@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-s-tawde-7a1392315)  
-- 😄 **Pronouns:** He/Him  
-- ⚡ **Fun Fact:** I love experimenting with new tech stacks and creating real-world solutions!
-
----
-
-## 🔧 Skills & Technologies
+<div align="center">
+<h1>Hi there, I'm Aditya S. Tawde! 👋</h1>
+<h3>AI & Data Science Undergrad | Full-Stack Developer</h3>
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/API%20Development-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Development">
+<i>"Leveraging AI to solve complex problems, from intelligent pollution monitoring to smart queue management."</i>
 </p>
 
----
+<a href="https://www.linkedin.com/in/aditya-s-tawde-7a1392315">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:adityatawde9699@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
+</a>
+</div>
 
-## 🛠️ Featured Projects
+👨‍💻 About Me
 
-### 💰 Expense Tracker  
-Python-based web app for personal finance tracking with data visualization.
+I am a B.Tech student in Artificial Intelligence and Data Science at Jawaharlal Nehru Engineering College, MGMU. My focus lies at the intersection of Data Science and Scalable Web Architecture.
 
-### 📦 QueueBite *(Ongoing)*  
-Smart queue management system for canteens using Django, React, WebSockets, and Redis.  
-*Features:* Live queue updates, staff dashboard, analytics, role-based access.
+I don't just write code; I build systems that solve real-world inefficiencies. Currently, I am expanding my expertise in ML Ops and Japanese Language (日本語).
 
----
+🔭 Working on: QueueBite (Smart Canteen Management) & PM-AIMapper
 
-## 📊 GitHub Stats
+🌱 Learning: Transformers, AI Pipelines, and JLPT (Japanese)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityatawde9699&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityatawde9699&layout=compact&theme=tokyonight" alt="Top Languages" height="150">
-</p>
+🤝 Open for collaboration on: Hackathon projects & AI-integrated Web Apps
 
----
+🏆 Hackathon Achievements (2025)
 
-## 🌱 Current Learning Path
+Event
 
-- Data Science (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- AI Engineering (Transformers, PyTorch, AI Pipelines)
-- Web Development (Full Stack with Django, React, REST APIs)
-- Japanese Language (Beginner to Expert journey)
+Project
 
----
+Role / Tech
 
-## 📫 Connect With Me
+Pragati AI for Impact
 
-<p>
-<a href="mailto:adityatawde9699@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/aditya-s-tawde-7a1392315"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/adityatawde9699"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+SkillForge
+
+AI Engineer 
+
+
+
+ built a gamified, AI-powered skill development platform.
+
+Bharatiya Antariksh
+
+PM-AIMapper
+
+Data Lead 
+
+
+
+ End-to-End PM estimation & mapping system for air pollution monitoring.
+
+🔧 Technical Arsenal
+
+🧠 AI & Data Science
+
+🌐 Full-Stack Development
+
+🗄️ Databases & Tools
+
+🚀 Featured Projects
+
+📦 QueueBite (Ongoing)
+
+Solving the chaos of canteen queues with real-time tech.
+
+Tech Stack: Django, React, WebSockets, Redis, PostgreSQL.
+
+Key Features: Real-time queue updates via WebSockets, Role-based dashboards (Student/Staff), and live analytics.
+
+💰 Personal Finance Visualizer
+
+Not just tracking expenses, but visualizing spending habits.
+
+Tech Stack: Python, Flask, Pandas, Matplotlib.
+
+Key Features: Interactive data visualization of monthly expenses, category breakdown, and budget forecasting.
+
+📊 GitHub Analytics
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dadityatawde9699%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" height="150" alt="stats graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dadityatawde9699%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dadityatawde9699%26label%3DProfile%2520Views%26color%3Dblue%26style%3Dflat" alt="profile views" />
+</div>
