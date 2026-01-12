@@ -57,6 +57,4 @@
 
 ## 📈 GitHub Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityatawde9699&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityatawde9699&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityatawde9699&theme=transparent&hide_border=true)](https://git.io/streak-stats)
