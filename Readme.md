@@ -189,10 +189,11 @@ A financial literacy game built on concepts from my Fintech minor — making per
 
 <div align="center">
 
-<img src="https://github-readme-stats-woad-ten-19.vercel.app/api?username=Aditawdetawde9699&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-<img src="https://github-readme-stats-woad-ten-19.vercel.app/api/top-langs/?username=Aditawdetawde9699&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adityatawde9699&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Aditawdetawde9699&theme=tokyonight&hide_border=true" height="165"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityatawde9699&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=adityatawde9699&theme=tokyonight&hide_border=true"/>
 
 </div>
 
