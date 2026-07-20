@@ -2,11 +2,13 @@
 
 # Aditya S. Tawde
 
-**AI Systems Engineer (in progress) · B.Tech AI & Data Science · JNEC, MGM University**
+**AI Systems Builder · B.Tech AI & Data Science, MGM University**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-s-tawde)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adityatawde9699@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adityatawde9699)
+Local-first AI, agentic systems, and full-stack products — built on a 4GB-RAM laptop, which means every design decision here had to earn its keep.
+
+[![GitHub](https://img.shields.io/badge/GitHub-adityatawde9699-181717?style=flat&logo=github)](https://github.com/adityatawde9699)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya--s--tawde-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-s-tawde)
+[![Email](https://img.shields.io/badge/Email-adityatawde9699%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adityatawde9699@gmail.com)
 
 </div>
 
@@ -14,60 +16,101 @@
 
 ## About
 
-I build production-oriented AI systems on hardware most people would call unusable for AI work — an Intel i3 10th Gen, 4GB RAM, no GPU. That constraint isn't a disclaimer, it's the design brief: local-first inference, CPU-only pipelines, and RAM-aware architecture decisions on every project.
-
-Currently focused on LLM orchestration, retrieval-augmented systems, and shipping tools people actually use — not demos.
+I build systems, not demos. Most of my work lives at the intersection of agentic AI, local/edge inference, and backend architecture — with a hardware constraint (i3 10th gen, 4GB RAM, no GPU) that forces every project toward RAM efficiency and CPU-only inference rather than throwing compute at problems.
 
 ---
 
-## Flagship Projects
+## Active Projects
 
-### Amadeus AI
-LangGraph-based Mixture-of-Experts orchestration system running a local Qwen-2.5-1.5B model via `llama.cpp`, with Gemini as cloud fallback. Telegram-based interface, built on Clean Architecture principles.
+### 🔵 [Amadeus AI](https://github.com/adityatawde9699/Amadeus-AI)
+![Stars](https://img.shields.io/github/stars/adityatawde9699/Amadeus-AI?style=flat&color=gold) ![Forks](https://img.shields.io/github/forks/adityatawde9699/Amadeus-AI?style=flat&color=blue)
 
-`LangGraph` `llama.cpp` `Qwen-2.5` `Gemini API` `Telegram Bot API` `Python`
+A Python framework for autonomous AI agents — planning, execution graphs, and a plugin system, built on Clean Architecture. Runs a local Qwen model via `llama.cpp` with Gemini as cloud fallback, orchestrated through LangGraph, connected via Telegram.
 
-### Ledger
-Cloud-hosted personal finance web app with Supabase auth, investment analytics, GST reporting, and Tally XML export for Indian accounting workflows.
+`Python` `Clean Architecture` `Multi-Agent` `Plugin System`
 
-`Supabase` `React` `TypeScript` `PostgreSQL`
+### 🟢 [Ledger](https://github.com/adityatawde9699/Leger)
+![Stars](https://img.shields.io/github/stars/adityatawde9699/Leger?style=flat&color=gold) ![Forks](https://img.shields.io/github/forks/adityatawde9699/Leger?style=flat&color=blue)
 
-### DocMind AI
-Local-first document intelligence tool — OCR extraction, semantic chunking, and vector search running entirely on-device.
+An AI-native personal finance platform with local-first privacy. Smart auto-categorization, receipt OCR, bill negotiation, investment tracking, and automated GST compliance.
 
-`PaddleOCR` `FAISS` `llama-cpp-python` `PyMuPDF`
+`React` `FastAPI` `OCR` `GST`
+
+### 🟡 [Cognate](https://github.com/adityatawde9699/Cognate)
+A local-first, privacy-focused day planner. Auto-schedules tasks as time blocks, re-flows on disruption, syncs end-to-end encrypted via CRDTs, and runs its AI layer entirely on-device — your data never leaves the machine.
+
+`Tauri 2` `Rust` `React` `SQLite`
+
+### 🟣 [Amadeus-chat](https://github.com/adityatawde9699/Amadeus-chat)
+![Stars](https://img.shields.io/github/stars/adityatawde9699/Amadeus-chat?style=flat&color=gold)
+
+A deterministic-first, fire-and-forget CLI assistant built specifically for low-RAM laptops. Handles tasks, notes (BM25 search), git commits, web research, and system maintenance via a local LLM.
+
+`Python` `BM25` `CLI`
 
 ---
 
-## Stack
+## Hackathon & Challenge Builds
 
-**Languages:** Python, TypeScript, JavaScript, C++
-**AI/ML:** PyTorch, LoRA fine-tuning, RAG pipelines, llama.cpp, Hugging Face
-**Backend:** FastAPI, Supabase, PostgreSQL
-**Frontend:** React
-**Tools:** Docker, Git, Linux Mint (daily driver)
+| Project | Description |
+|---|---|
+| [**System-32-Interview-AI**](https://github.com/adityatawde9699/System-32-Inter-View-AI) | Real-time AI interview coach — context-aware questions via Gemini 2.0, local speech transcription via Whisper, zero-latency delivery feedback. *(Tech Spark Google Hackathon 2026)* |
+| [**Amadeus-dreamflow**](https://github.com/adityatawde9699/Amadeus-dreamflow) | AI project built for Dreamflow 2025. |
+| [**arth-neeti-game**](https://github.com/adityatawde9699/arth-neeti-game) | Cards-based financial literacy quiz simulation. *(Innovate4FinLit Game Challenge)* |
+| [**QueueBite**](https://github.com/adityatawde9699/QueueBite) | Smart canteen queue system — live order tracking, digital tokens, real-time notifications. *(Academic project)* |
 
 ---
 
-## Currently Learning
+## Other Completed Work
 
-MLOps tooling (Docker, MLflow) · SQL depth · DSA · Production-grade PyTorch
+- **[LibraryPro](https://github.com/adityatawde9699/LibraryPro)** — Java Swing library management system with FlatLaf dark UI, SQLite persistence, and bulk CSV/Excel import.
+- **[DataScraperViz](https://github.com/adityatawde9699/DataScraperViz)** — Python toolkit scraping real-time stock data (Alpha Vantage) and job listings (Selenium), with interactive visualizations.
+- **[fake-review-system](https://github.com/adityatawde9699/fake-review-system)** — NLP-powered Streamlit app for review sentiment analysis.
+- **[WeatherForesite](https://github.com/adityatawde9699/WeatherForesite)** — Real-time weather forecast app for cities worldwide.
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adityatawde9699&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityatawde9699&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=adityatawde9699&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityatawde9699&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
+
+---
+
+## Currently Learning
+
+Advanced PyTorch · MLOps tooling (Docker, MLflow) · SQL depth · DSA · Distributed systems
 
 ---
 
 <div align="center">
 
-*Building AI systems that ship on constrained hardware, not just on paper.*
+*Building things that ship over things that impress.*
 
 </div>
