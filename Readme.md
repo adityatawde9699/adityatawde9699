@@ -4,11 +4,23 @@
 
 **AI Systems Builder · B.Tech AI & Data Science, MGM University**
 
-Local-first AI, agentic systems, and full-stack products — built on a 4GB-RAM laptop, which means every design decision here had to earn its keep.
+Agentic AI and local-first systems, engineered for production over prototypes.
 
-[![GitHub](https://img.shields.io/badge/GitHub-adityatawde9699-181717?style=flat&logo=github)](https://github.com/adityatawde9699)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya--s--tawde-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-s-tawde)
-[![Email](https://img.shields.io/badge/Email-adityatawde9699%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adityatawde9699@gmail.com)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-adityatawde9699-181717?style=flat&logo=github)
+
+](https://github.com/adityatawde9699)
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya--s--tawde-0077B5?style=flat&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/aditya-s-tawde)
+[
+
+![Email](https://img.shields.io/badge/Email-adityatawde9699%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
+
+](mailto:adityatawde9699@gmail.com)
 
 </div>
 
