@@ -16,7 +16,7 @@ Agentic AI and local-first systems, engineered for production over prototypes.
 
 ## About
 
-I build systems, not demos. Most of my work lives at the intersection of agentic AI, local/edge inference, and backend architecture — with a hardware constraint (i3 10th gen, 4GB RAM, no GPU) that forces every project toward RAM efficiency and CPU-only inference rather than throwing compute at problems.
+I build systems, not demos. Most of my work lives at the intersection of agentic AI, local/edge inference, and backend architecture — with a hardware constraint that forces every project toward RAM efficiency and CPU-only inference rather than throwing compute at problems.
 
 ---
 
