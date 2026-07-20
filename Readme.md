@@ -31,7 +31,7 @@
 
 ## ⚡ About Me
 
-I'm a 2nd-year engineering student obsessed with building things that *actually ship*. I work at the intersection of **AI systems**, **full-stack development**, and **production-grade ML pipelines** — moving away from notebook experiments toward scalable, deployable architectures.
+I'm a 3rd-year B.Tech student in Artificial Intelligence & Data Science passionate about building software that people can actually use. My interests span AI engineering, LLM applications, backend systems, full-stack development, and production-grade machine learning. I enjoy designing scalable architectures, deploying end-to-end applications, and learning the engineering practices that turn prototypes into reliable products. My goal is to become an AI engineer who builds robust, practical systems—not just models.
 
 ```python
 class Aditya:
