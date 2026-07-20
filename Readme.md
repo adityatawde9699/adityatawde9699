@@ -37,7 +37,7 @@ I'm a 3rd-year B.Tech student in Artificial Intelligence & Data Science passiona
 class Aditya:
     role       = "AI & Data Science Student | Full-Stack Builder"
     university = "MGM University — B.Tech AI & DS (Fintech Minor)"
-    year       = "2nd Year"
+    year       = "3rd Year"
     languages  = ["Python", "JavaScript", "TypeScript", "C", "C++"]
     focus      = ["ML Systems", "Voice AI", "Creative Coding", "Fintech"]
     hobbies    = ["Anime Sketching", "Japanese (JLPT Prep 🇯🇵)", "Generative Art"]
